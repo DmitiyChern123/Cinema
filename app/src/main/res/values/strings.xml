@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cinema</string>
+
+    <string-array name="film_names">
+        <item>фильм1</item>
+        <item>фильм2</item>
+        <item>фильм3</item>
+
+    </string-array>
+</resources>
